@@ -8,5 +8,5 @@ void draw() {
     line(pmouseX, pmouseY, mouseX, mouseY);
     point(random(mouseX-20, mouseX+20), random(mouseY-20, mouseY+20));
     strokeWeight(5);
-    
+  }
 }
