@@ -1,5 +1,5 @@
 //click mouse to generate lion for feeding Du 
-//two du has randomly different behavior
+//Two du have randomly different behavior
 import gifAnimation.*;
 Gif myAnimation[]=new Gif[3];
 Gif myAnimation1[]=new Gif[3];
