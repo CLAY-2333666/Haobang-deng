@@ -1,4 +1,4 @@
-class rocket {
+class du {
   int i;
   float xpos;
   float ypos;
@@ -6,7 +6,7 @@ class rocket {
   boolean turn=false;
   boolean chase = false;
   boolean move=true;
-  rocket(int tempi, float tempXpos, float tempYpos, float tempXspeed) {
+  du(int tempi, float tempXpos, float tempYpos, float tempXspeed) {
     i=tempi;
     xpos = tempXpos;
     ypos = tempYpos;
@@ -14,7 +14,7 @@ class rocket {
   }
   void display() {
     stroke(0);
-    if (frameCount%100==1 && Rocket[i].chase==false) {
+    if (frameCount%100==1 && Du[i].chase==false) {
     if (random(1)<0.5) 
       move=true;
     else move=false;
@@ -24,15 +24,14 @@ class rocket {
         turn=true; 
       else turn=false;
     }
-    if (move==false && Rocket[i].chase==false) {
-      Rocket[i].xspeed=0;
+    if (move==false && Du[i].chase==false) {
+      Du[i].xspeed=0;
     };
     if (turn ==true) {
       pushMatrix();
-      scale(-1, 1); //scale the matrix
+      scale(-1, 1); 
       image(myAnimation[i], -xpos-myAnimation[i].width, myAnimation[i].height);
-      //println((-Rocket[1].xpos)-myAnimation[1].width);
-      //draw the image using the scaled matrix
+
       popMatrix();
     }
     if (chase==false&&move==true) {
