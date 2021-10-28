@@ -1,5 +1,5 @@
 # haobang-deng
-[project1](#project-1-brief-description)
+[Project1](#project-1-brief-description)
 # Project 1 brief description
 ## How it work
 - click mouse to generate lion for feeding Du 
