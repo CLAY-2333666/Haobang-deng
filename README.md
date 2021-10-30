@@ -7,7 +7,7 @@ https://drive.google.com/file/d/1CkcU6-fWl0r-VpmLVHGrSgvhqaL_t-rY/view?usp=shari
 - Two du have randomly different behavior like random stop for a rest, diversion.
 - Du will not eat lion unless the lion is in his sighting.
 ## The function not covered in the class
-- I think ```popMatrix()``` and the array of class had not been covered at that time.(line2-4)
+- I think ```popMatrix()```(line31-33) and the array of class had not been covered at that time.(line2-4)
 - the use of ```frameCount``` to run the certain function every certain time. (line 17)
 # Project 2 brief description
 https://drive.google.com/file/d/1SAzD3Pi66fg0tpUsOUku6YDhdxAQm2q9/view?usp=sharing
