@@ -18,3 +18,12 @@ https://drive.google.com/file/d/1SAzD3Pi66fg0tpUsOUku6YDhdxAQm2q9/view?usp=shari
 ## The function not covered in the class
 - ```tint()``` to control the opcity(line10 in l class)
 - the use of ```get()``` function to implemtn of the charge of energy bar. (line 17)
+# Project 3 brief description
+
+## How it work
+- Turn the phote to the sketching initially https://subscription.packtpub.com/book/application-development/9781785282690/1/ch01lvl1sec10/creating-a-black-and-white-pencil-sketch
+- Move mouse to change the circle range area to small square made. 
+- Right click to change the square area according to the laplacian matrix. https://en.wikipedia.org/wiki/Discrete_Laplace_operator
+## The function not covered in the class
+- ```mouseWheel()``` (line25)
+- ```constrain()```  (line 4-6)
