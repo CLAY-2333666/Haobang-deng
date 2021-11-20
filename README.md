@@ -25,6 +25,14 @@ https://drive.google.com/file/d/1SAzD3Pi66fg0tpUsOUku6YDhdxAQm2q9/view?usp=shari
 ![This is an image](https://github.com/CLAY-2333666/Haobang-deng/blob/main/PROJECT_3/data/4b1cb1e6a92501df96fce722ecbb8138--landscape-oil-paintings-landscape-art.jpg)
 ## How it work
 - Turn the phote to the sketching initially[^1].
+  <details>
+  
+  1. Convert the color image to grayscale.
+  2. Invert the grayscale image to get a negative.
+  3. Apply a Gaussian blur to the negative from step 2.
+  4. Blend the grayscale image from step 1 with the blurred negative from step 3 using a color dodge.
+  
+  </details>
 - Move mouse to change the circle range area to small square made. 
 - Right click to change the square area according to the laplacian matrix.[^2] [^3] 
 ## The function not covered in the class
