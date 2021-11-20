@@ -23,7 +23,7 @@ https://drive.google.com/file/d/1SAzD3Pi66fg0tpUsOUku6YDhdxAQm2q9/view?usp=shari
 ## How it work
 - Turn the phote to the sketching initially[^1].
 - Move mouse to change the circle range area to small square made. 
-- Right click to change the square area according to the laplacian matrix.[^2] https://en.wikipedia.org/wiki/Discrete_Laplace_operator
+- Right click to change the square area according to the laplacian matrix.[^2] [^3] 
 ## The function not covered in the class
 - ```mouseWheel()``` (line25)
 - ```constrain()```  (line 4-6)
@@ -31,3 +31,4 @@ https://drive.google.com/file/d/1SAzD3Pi66fg0tpUsOUku6YDhdxAQm2q9/view?usp=shari
 **Reference**
 [^1]: https://subscription.packtpub.com/book/application-development/9781785282690/1/ch01lvl1sec10/creating-a-black-and-white-pencil-sketch
 [^2]: https://en.wikipedia.org/wiki/Discrete_Laplace_operator
+[^3]: https://processing.org/examples/convolution.html
