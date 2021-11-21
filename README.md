@@ -18,3 +18,28 @@ https://drive.google.com/file/d/1SAzD3Pi66fg0tpUsOUku6YDhdxAQm2q9/view?usp=shari
 ## The function not covered in the class
 - ```tint()``` to control the opcity(line10 in l class)
 - the use of ```get()``` function to implemtn of the charge of energy bar. (line 17)
+# Project 3 brief description
+
+**Origin**
+
+![This is an image](https://github.com/CLAY-2333666/Haobang-deng/blob/main/PROJECT_3/data/4b1cb1e6a92501df96fce722ecbb8138--landscape-oil-paintings-landscape-art.jpg)
+## How it work
+- Turn the phote to the sketching initially[^1].
+  <details>
+  
+  1. Convert the color image to grayscale.
+  2. Invert the grayscale image to get a negative.
+  3. Apply a Gaussian blur to the negative from step 2.
+  4. Blend the grayscale image from step 1 with the blurred negative from step 3 using a color dodge.
+  
+  </details>
+- Move mouse to change the circle range area to small square made. 
+- Right click to change the square area according to the laplacian matrix.[^2] [^3] 
+## The function not covered in the class
+- ```mouseWheel()``` (line25)
+- ```constrain()```  (line 4-6)
+
+**Reference**
+[^1]: https://subscription.packtpub.com/book/application-development/9781785282690/1/ch01lvl1sec10/creating-a-black-and-white-pencil-sketch
+[^2]: https://en.wikipedia.org/wiki/Discrete_Laplace_operator
+[^3]: https://processing.org/examples/convolution.html
