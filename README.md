@@ -40,7 +40,7 @@ https://drive.google.com/file/d/1SAzD3Pi66fg0tpUsOUku6YDhdxAQm2q9/view?usp=shari
 - ```mouseWheel()``` (line25)
 - ```constrain()```  (line 4-6)
 
-**Reference**
+### **Reference**
 [^1]: https://subscription.packtpub.com/book/application-development/9781785282690/1/ch01lvl1sec10/creating-a-black-and-white-pencil-sketch
 [^2]: https://en.wikipedia.org/wiki/Discrete_Laplace_operator
 [^3]: https://processing.org/examples/convolution.html
