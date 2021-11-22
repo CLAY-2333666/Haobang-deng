@@ -20,7 +20,7 @@ https://drive.google.com/file/d/1SAzD3Pi66fg0tpUsOUku6YDhdxAQm2q9/view?usp=shari
 - the use of ```get()``` function to implemtn of the charge of energy bar. (line 17)
 # Project 3 brief description
 
-**Origin**
+## Origin image:
 
 ![This is an image](https://github.com/CLAY-2333666/Haobang-deng/blob/main/PROJECT_3/data/4b1cb1e6a92501df96fce722ecbb8138--landscape-oil-paintings-landscape-art.jpg)
 ## How it work
@@ -35,6 +35,7 @@ https://drive.google.com/file/d/1SAzD3Pi66fg0tpUsOUku6YDhdxAQm2q9/view?usp=shari
   </details>
 - Move mouse to change the circle range area to small square made. 
 - Right click to change the square area according to the laplacian matrix.[^2] [^3] 
+- Scroll the mouse wheel to adjust the affected range
 ## The function not covered in the class
 - ```mouseWheel()``` (line25)
 - ```constrain()```  (line 4-6)
