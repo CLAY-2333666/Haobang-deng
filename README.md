@@ -24,7 +24,7 @@ https://drive.google.com/file/d/1SAzD3Pi66fg0tpUsOUku6YDhdxAQm2q9/view?usp=shari
 
 ![This is an image](https://github.com/CLAY-2333666/Haobang-deng/blob/main/PROJECT_3/data/4b1cb1e6a92501df96fce722ecbb8138--landscape-oil-paintings-landscape-art.jpg)
 ## How it work
-- Turn the phote to the sketching initially[^1].
+- Turn the phote to the sketching initially[^1][^4].
   <details>
   
   1. Convert the color image to grayscale.
@@ -44,3 +44,4 @@ https://drive.google.com/file/d/1SAzD3Pi66fg0tpUsOUku6YDhdxAQm2q9/view?usp=shari
 [^1]: https://subscription.packtpub.com/book/application-development/9781785282690/1/ch01lvl1sec10/creating-a-black-and-white-pencil-sketch
 [^2]: https://en.wikipedia.org/wiki/Discrete_Laplace_operator
 [^3]: https://processing.org/examples/convolution.html
+[^4]:https://dyclassroom.com/image-processing-project/how-to-convert-a-color-image-into-negative
