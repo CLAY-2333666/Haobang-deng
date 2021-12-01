@@ -33,9 +33,10 @@ https://drive.google.com/file/d/1SAzD3Pi66fg0tpUsOUku6YDhdxAQm2q9/view?usp=shari
   4. Blend the grayscale image from step 1 with the blurred negative from step 3 using a color dodge.
   
   </details>
-- Move mouse to change the circle range area to small square made. 
-- Press left mouse button to change the square area inside according to the laplacian matrix..[^2] [^3] 
+- Move the mouse to change the area inside the circle into square combination.
+- Press left mouse button to change the square area inside according to the laplacian matrix.[^2] [^3] 
 - Scroll the mouse wheel to adjust the affected range
+- right click to reset to the sketching
 ## The function not covered in the class
 - ```mouseWheel()``` (line25)
 - ```constrain()```  (line 4-6)
