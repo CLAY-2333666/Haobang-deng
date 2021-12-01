@@ -34,7 +34,7 @@ https://drive.google.com/file/d/1SAzD3Pi66fg0tpUsOUku6YDhdxAQm2q9/view?usp=shari
   
   </details>
 - Move mouse to change the circle range area to small square made. 
-- Right click to change the square area according to the laplacian matrix.[^2] [^3] 
+- Press right mouse button to change the square area inside according to the laplacian matrix..[^2] [^3] 
 - Scroll the mouse wheel to adjust the affected range
 ## The function not covered in the class
 - ```mouseWheel()``` (line25)
