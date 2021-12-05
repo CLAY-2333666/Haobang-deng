@@ -24,7 +24,7 @@ https://drive.google.com/file/d/1SAzD3Pi66fg0tpUsOUku6YDhdxAQm2q9/view?usp=shari
 
 ![This is an image](https://github.com/CLAY-2333666/Haobang-deng/blob/main/PROJECT_3/data/4b1cb1e6a92501df96fce722ecbb8138--landscape-oil-paintings-landscape-art.jpg)
 ## How it work
-- Turn the phote to the sketching initially[^1].
+- Turn the phote to the sketching initially[^1][^4].
   <details>
   
   1. Convert the color image to grayscale.
@@ -33,9 +33,10 @@ https://drive.google.com/file/d/1SAzD3Pi66fg0tpUsOUku6YDhdxAQm2q9/view?usp=shari
   4. Blend the grayscale image from step 1 with the blurred negative from step 3 using a color dodge.
   
   </details>
-- Move mouse to change the circle range area to small square made. 
-- Press left mouse button to change the square area inside according to the laplacian matrix..[^2] [^3] 
+- Move the mouse to change the area inside the circle into square combination.
+- Press left mouse button to change the square area inside according to the laplacian matrix.[^2] [^3] 
 - Scroll the mouse wheel to adjust the affected range
+- right click to reset to the sketching
 ## The function not covered in the class
 - ```mouseWheel()``` (line25)
 - ```constrain()```  (line 4-6)
@@ -44,3 +45,4 @@ https://drive.google.com/file/d/1SAzD3Pi66fg0tpUsOUku6YDhdxAQm2q9/view?usp=shari
 [^1]: https://subscription.packtpub.com/book/application-development/9781785282690/1/ch01lvl1sec10/creating-a-black-and-white-pencil-sketch
 [^2]: https://en.wikipedia.org/wiki/Discrete_Laplace_operator
 [^3]: https://processing.org/examples/convolution.html
+[^4]:https://dyclassroom.com/image-processing-project/how-to-convert-a-color-image-into-negative
