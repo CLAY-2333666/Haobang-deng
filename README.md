@@ -47,8 +47,8 @@ https://drive.google.com/file/d/1SAzD3Pi66fg0tpUsOUku6YDhdxAQm2q9/view?usp=shari
 - Click space to active the autoplay
 - click l to chage mode between Simulated piano sounds and real piano sounds.
 ## The function not covered in the class
-- ```IntDict``` Control piano key trigger 
-- ```rewind()``` to rewind the audio
+- ```IntDict``` Control piano key trigger (line111)
+- ```rewind()``` to rewind the audio (line25)
 ### **Reference**
 [^1]: https://subscription.packtpub.com/book/application-development/9781785282690/1/ch01lvl1sec10/creating-a-black-and-white-pencil-sketch
 [^2]: https://en.wikipedia.org/wiki/Discrete_Laplace_operator
