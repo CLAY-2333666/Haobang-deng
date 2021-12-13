@@ -25,6 +25,7 @@ Minim minim;
 AudioOutput out;
 float xpos =0.0;
 int count1=0;
+
 void setup()
 {
   minim = new Minim(this);
@@ -95,17 +96,16 @@ void setup()
   inventory = new IntDict();
   inventory1 = new StringDict();
 }
+
 void draw()
 {
   println(mode);
   update();
   if (autoplay) {
-
     if (l<=array.length-1) {
       if (millis()-start>array[l]) {
         //println(millis()-start);
         start=millis();
-
         for (int y =0; y<chordArrays[l]; y++ ) {
           if (!mode) {
             new MyNote(pitchArrays[x+y]*10.29, 0.2);
@@ -120,21 +120,15 @@ void draw()
             file[pitchArrays[x+y]].rewind();
           }
         }
-
         x=x+chordArrays[l];
         l++;
       }
     }
   }  //background(0);
-
-
-
-
   //print(millis());
 }
 
 void keyPressed() {
-
   if (key == ' ') {
     autoplay=true;
   }
