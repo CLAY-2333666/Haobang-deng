@@ -45,7 +45,7 @@ https://drive.google.com/file/d/1SAzD3Pi66fg0tpUsOUku6YDhdxAQm2q9/view?usp=shari
 - Click the piano to play
 - autoplay the piano according to the array converted from midi.https://github.com/ScroogeD2/owmidiconverter[^5]
 - Click space to active the autoplay
-- click l to chage mode between Simulated piano sounds and real piano sounds.
+- Click l to chage mode between Simulated piano sounds and real piano sounds.
 ## The function not covered in the class
 - ```IntDict``` Control piano key trigger (line 111)
 - ```rewind()``` to rewind the audio (line 121)
