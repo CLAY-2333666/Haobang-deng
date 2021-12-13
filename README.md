@@ -40,9 +40,21 @@ https://drive.google.com/file/d/1SAzD3Pi66fg0tpUsOUku6YDhdxAQm2q9/view?usp=shari
 ## The function not covered in the class
 - ```mouseWheel()``` (line25)
 - ```constrain()```  (line 4-6)
+# Project 3 brief description
 
+## Origin image:
+
+## How it work
+- Click the piano to play
+- autoplay the piano according to the array converted from midi.https://github.com/ScroogeD2/owmidiconverter[^5]
+- Click space to active the autoplay
+- click l to chage mode between Simulated piano sounds and real piano sounds.
+## The function not covered in the class
+- ```IntDict``` (line25)
+- ```rewind()```  (line 4-6)
 ### **Reference**
 [^1]: https://subscription.packtpub.com/book/application-development/9781785282690/1/ch01lvl1sec10/creating-a-black-and-white-pencil-sketch
 [^2]: https://en.wikipedia.org/wiki/Discrete_Laplace_operator
 [^3]: https://processing.org/examples/convolution.html
-[^4]:https://dyclassroom.com/image-processing-project/how-to-convert-a-color-image-into-negative
+[^4]: https://dyclassroom.com/image-processing-project/how-to-convert-a-color-image-into-negative
+[^5]: https://github.com/ScroogeD2/owmidiconverter
