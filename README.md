@@ -43,7 +43,7 @@ https://drive.google.com/file/d/1SAzD3Pi66fg0tpUsOUku6YDhdxAQm2q9/view?usp=shari
 # Project 4 brief description
 ## How it work
 - Click the piano to play
-- autoplay the piano according to the array converted from midi.https://github.com/ScroogeD2/owmidiconverter[^5]
+- Autoplay the piano according to the array converted from midi.https://github.com/ScroogeD2/owmidiconverter[^5]
 - Click space to active the autoplay
 - Click l to chage mode between Simulated piano sounds and real piano sounds.
 ## The function not covered in the class
