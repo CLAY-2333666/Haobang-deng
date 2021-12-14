@@ -40,18 +40,16 @@ https://drive.google.com/file/d/1SAzD3Pi66fg0tpUsOUku6YDhdxAQm2q9/view?usp=shari
 ## The function not covered in the class
 - ```mouseWheel()``` (line25)
 - ```constrain()```  (line 4-6)
-# Project 3 brief description
-
-## Origin image:
-
+# Project 4 brief description
 ## How it work
 - Click the piano to play
-- autoplay the piano according to the array converted from midi.https://github.com/ScroogeD2/owmidiconverter[^5]
+- Autoplay the piano according to the array converted from midi.
+- Open https://clay-2333666.github.io/ to convert midi. Forked and Cuted from here for just output the array https://github.com/ScroogeD2/owmidiconverter [^5]
 - Click space to active the autoplay
-- click l to chage mode between Simulated piano sounds and real piano sounds.
+- Click l to chage mode between Simulated piano sounds and real piano sounds.
 ## The function not covered in the class
-- ```IntDict``` (line25)
-- ```rewind()```  (line 4-6)
+- ```IntDict``` Control piano key trigger (line 111)
+- ```rewind()``` to rewind the audio (line 121)
 ### **Reference**
 [^1]: https://subscription.packtpub.com/book/application-development/9781785282690/1/ch01lvl1sec10/creating-a-black-and-white-pencil-sketch
 [^2]: https://en.wikipedia.org/wiki/Discrete_Laplace_operator
